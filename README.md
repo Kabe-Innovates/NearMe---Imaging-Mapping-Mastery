@@ -141,7 +141,7 @@ Execute the programs and publish them.
 ## OUTPUT
 Refer to the following screenshots to view the output or else watch the demonstration in  ```/OutputIllustration```
 ![alt text](<ImageMapping/Output Illustration/Main.png>)
-![Iskcon.png](<ImageMapping\Output Illustration\Iskcon.png>)
+![alt text](<ImageMapping/Output Illustration/Iskcon.png>)
 ![alt text](<ImageMapping/Output Illustration/Zoo.png>)
 ![alt text](<ImageMapping/Output Illustration/1008Temple.png>)
 ![alt text](<ImageMapping/Output Illustration/Salem.png>)
