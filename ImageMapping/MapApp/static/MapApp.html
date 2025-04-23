@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>SALEM - IMAGE MAPPING</title>
+    <script src="https://cdn.jsdelivr.net/npm/image-map-resizer@1.0.10/js/imageMapResizer.min.js"></script>
+    <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+    <h1>SALEM - IMAGE MAPPING</h1>
+    <h2>KABELAN G K - 212224110027</h2>
+
+    <img src="SalemMap.png" alt="SalemMap" usemap="#MyCity">
+
+    <map name="MyCity">
+        <area shape="rect" coords="496,192,653,252" href="Iskcon.html" alt="Iskcon Salem">
+        <area shape="rect" coords="779,1,956,60" href="Zoo.html" alt="Kurumbapatti Zoo">
+        <area shape="rect" coords="203,846,447,896" href="1008.html" alt="1008 Shiva Temple">
+        <area shape="rect" coords="758,483,844,533" href="Salem.html" alt="Salem City">
+    </map>
+
+    <footer>&copy; 2025 Kabelan G K - Salem Tourism Map Project</footer>
+
+    <script>
+        window.onload = function () {
+            imageMapResize();
+        };
+    </script>
+</body>
+</html>
